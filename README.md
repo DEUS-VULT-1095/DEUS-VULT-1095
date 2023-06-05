@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Denis. I live in Saint-Petersburg and I'm learning Java.
+
+I want you to do well and...
+
+![cat2](https://github.com/DEUS-VULT-1095/DEUS-VULT-1095/assets/109753552/8219e4a1-f099-4164-8f4b-78e653315e86)
 
 <!--
 **DEUS-VULT-1095/DEUS-VULT-1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
