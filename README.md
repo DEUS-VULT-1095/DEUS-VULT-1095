@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-I'm Denis and I live in Saint-Petersburg.
-
-I am a backend developer who has experience in Java, Spring, Hibernate, PostgreSQL, JUnit stack.
-I work with relational databases, and I know how to make complex SQL/HQL queries.
-I have experience in creating RESTfull applications.
-I plan to further develop in backend development.
-
 ### Bye there 👋
 <!--
 **DEUS-VULT-1095/DEUS-VULT-1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
